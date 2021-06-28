@@ -1,1 +1,1 @@
-- planning part of brain gets tired. It get
+- planning part of brain gets tired. Your planning ability gets very much worse when tired. So do planning when
