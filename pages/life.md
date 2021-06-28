@@ -1,0 +1,8 @@
+- What do I want to do with my life?
+	- ((60d73f13-dfff-46e7-aebc-8198ea1a416e)) [[do good]]
+- How do I accomplish that ideal life?
+	- [[life goals]]
+		- Achieved through:
+			- [[1 year goals (short)]]
+			- [[5 year goals (medium)]]
+	- [[Achieving my goals]]

@@ -1,0 +1,3 @@
+- Medicine? Bigg effort to study
+- Cognitive enhancement?? Pre cool but again big (but maybe worthwile) effort to get into.
+- Security

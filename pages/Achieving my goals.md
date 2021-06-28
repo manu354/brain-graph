@@ -1,0 +1,6 @@
+- The things that will always help and that we should always have down pat
+	- Actively thinking and researching ways to self improve [[improvement]]
+	- [[productivity]]
+		- Once I have chosen my goals, my productivity/success at achieving them is the focus
+	- [[cognition and health]]
+	- Embracing modern and emerging psychology and applying it to my life.
