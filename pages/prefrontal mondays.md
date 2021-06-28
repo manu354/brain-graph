@@ -1,2 +1,2 @@
 - planning part of brain gets tired. Your planning ability gets very much worse when tired. So do planning when your prefrontal is fresh as fuck
-- Do a planning session / reviewing goals once a week when most fresh (maybe mondays)
+- Do a planning session / reviewing [[goals]] once a week when most fresh (maybe mondays)
