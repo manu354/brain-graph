@@ -1,0 +1,4 @@
+- The big 3
+	- [[excersise]]
+	- [[sleep]]
+	- [[diet]]
