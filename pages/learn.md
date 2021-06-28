@@ -1,3 +1,3 @@
 - Things I want to learn:
-- ((60d926ad-6b5e-4039-93de-9b0a3e3fda6b))
--
+	- ((60d926ad-6b5e-4039-93de-9b0a3e3fda6b))
+	- algorithms and leetcode
