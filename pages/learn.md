@@ -1,5 +1,0 @@
-- Things I want to learn:
-	- prio [#A]
-		- ((60d926ad-6b5e-4039-93de-9b0a3e3fda6b))
-		- algorithms and leetcode
-		- basic problem solving skills
