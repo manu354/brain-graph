@@ -1,0 +1,9 @@
+- Email open positions at:
+- UROP: 26th july
+	- https://www.csiro.au/en/careers/scholarships-student-opportunities/undergraduate-studentships/undergraduate-research-opportunities-program
+- Amgen: now
+	- https://amgenscholars.research.unimelb.edu.au/
+- HRI: 15th july
+	- https://www.hri.org.au/join-us/student-opportunities
+- Sydney uni engineering: September
+	- https://www.sydney.edu.au/engineering/study/scholarships/engineering-vacation-research-internship-program.html
