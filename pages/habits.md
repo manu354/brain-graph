@@ -1,0 +1,5 @@
+- Habits I want to develop: set one of these per day in [[journal]]
+	- Morning ritual
+		- Start the morning with a walk
+	- Night ritual
+		- Meditate + Read
