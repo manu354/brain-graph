@@ -11,7 +11,7 @@
 
  ;; Git is only available in web app
  ;; Git settings
- :git-pull-secs 60
+ :git-pull-secs 10	
  :git-push-secs 10
  ;; Whether to enable git auto push
  :git-auto-push true
