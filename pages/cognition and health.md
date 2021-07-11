@@ -2,3 +2,9 @@
 	- [[excersise]]
 	- [[sleep]]
 	- [[diet]]
+- Other:
+	- [[breathing]]
+- Dont:
+	- [[alcohol]]
+	- [[mdma]]
+- [[Aesthetics]]
